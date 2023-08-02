@@ -1,5 +1,5 @@
 # Shyblowers-OrcaSlicer-Profiles
-This is the beginning of my collection of printing profiles for the OrcaSlicer slicing software for FDM printers.
+This is the beginning of my collection of printing profiles for the [OrcaSlicer][87cdc829] slicing software for FDM printers.
 
 You might use it according to the license included in this repository. Non-commercial means in this context, that you must not sell the profiles themselves or derivatives of them, without my permission, but you may of course use them for commercial printing.
 
