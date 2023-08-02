@@ -32,7 +32,7 @@ They might also work with the recent Bambu Studio 1.7.0 beta where most of OrcaS
 
   [87cdc829]: https://github.com/SoftFever/OrcaSlicer "OrcaSlicer by SoftFever"
 
-As advised by Bambu Lab, flexible filament like TPU must not used from within the AMS. All my flexible profiles have been created by using the spool holder on the back of the machine, feeding it into the printer through a Y splitter.
+As advised by Bambu Lab, flexible filament like TPU must not be used from within the AMS. All my flexible profiles have been created by using the spool holder on the back of the machine, feeding it into the printer through a Y splitter.
 
 ## NO WARRANTY; DISCLAIMER
 I MAKE NO WARRANTY OF ANY KIND, WHETHER EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING WITHOUT LIMITATION, MERCHANTABILITY, FITNESS FOR A PARTICULAR USE AND NON-INFRINGEMENT. YOU ASSUME ALL RISK FOR YOUR USE OF THE CONTENT OF THIS REPOSITORY, INCLUDING WITHOUT LIMITATION ANY HARM CAUSED BY VIRUSES, WORKS, OR OTHER DAMAGING MATERIALS. IN NO EVENT DO I GUARANTEE ANY RESULTS FOR YOU. I DO NOT WARRANT THAT ANY PORTION THEREOF, IS ACCURATE, ERROR OR BUG FREE, OR THAT ITS USE WILL NOT NEGATIVELY AFFECT OTHER SOFTWARE OR HARDWARE.
