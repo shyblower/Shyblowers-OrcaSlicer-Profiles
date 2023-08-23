@@ -1,9 +1,10 @@
 # Shyblowers-OrcaSlicer-Profiles
 This is the beginning of my collection of printing profiles for the [OrcaSlicer][87cdc829] slicing software for FDM printers.
 
-You might use it according to the license included in this repository. Non-commercial means in this context, that you must not sell the profiles themselves or derivatives of them, without my permission, but you may of course use them for commercial printing.
+Profiles will be added and improved to the extent that my time allows.
 
-Profiles will added and improved to the extent that my time allows.
+## Terms of Use
+You might use them according to the license included in this repository. Non-commercial means in this context, that you must not sell the profiles themselves or derivatives of them, without my permission, but you may of course use them for commercial printing.
 
 ## Directory structure and naming conventions
 I'm trying to keep the hierarchy as flat as possible and therefore made it only 3 levels deep:
