@@ -3,9 +3,6 @@ This is the beginning of my collection of printing profiles for the [OrcaSlicer]
 
 Profiles will be added and improved to the extent that my time allows.
 
-## !!! ATTENTION !!!
-**it seems that the recent firmware upgrades modified the printer's Pressure Advance algorithm. I did the upgrade today and had to notice that probably all my carefully calibrated K values need to be adjusted quite a bit upwards. I'll eventually do the adjustments to make them work with the current firmware.**
-
 ## Terms of Use
 You might use them according to the license included in this repository. Non-commercial means in this context, that you must not sell the profiles themselves or derivatives of them, without my permission, but you may of course use them for commercial printing.
 
