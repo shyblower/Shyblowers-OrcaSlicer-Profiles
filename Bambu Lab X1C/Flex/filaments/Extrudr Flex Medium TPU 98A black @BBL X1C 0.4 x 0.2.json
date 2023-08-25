@@ -1,9 +1,9 @@
 {
     "additional_cooling_fan_speed": [
-        "100"
+        "99"
     ],
     "default_filament_colour": [
-        "#FFFFFF"
+        "#000000"
     ],
     "enable_pressure_advance": [
         "1"
@@ -12,13 +12,7 @@
         "35"
     ],
     "fan_cooling_layer_time": [
-        "6"
-    ],
-    "fan_min_speed": [
-        "50"
-    ],
-    "filament_flow_ratio": [
-        "1.02"
+        "8"
     ],
     "filament_max_volumetric_speed": [
         "10"
@@ -30,7 +24,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "Extrudr Flex Hard TPU 58D white @BBL X1C 0.4 x 0.2"
+        "Extrudr Flex Medium TPU 98A black @BBL X1C 0.4 x 0.2"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n{if  (bed_temperature[current_extruder] >=35)||(bed_temperature_initial_layer[current_extruder] >35)}M106 P3 S255\n{elsif(bed_temperature[current_extruder] >=25)||(bed_temperature_initial_layer[current_extruder] >30)}M106 P3 S180\n{endif}"
@@ -44,21 +38,21 @@
     ],
     "inherits": "Bambu TPU 95A @BBL X1C",
     "is_custom_defined": "0",
-    "name": "Extrudr Flex Hard TPU 58D white @BBL X1C 0.4 x 0.2",
+    "name": "Extrudr Flex Medium TPU 98A black @BBL X1C 0.4 x 0.2",
     "nozzle_temperature": [
-        "245"
+        "250"
     ],
     "nozzle_temperature_initial_layer": [
-        "245"
+        "250"
     ],
     "overhang_fan_threshold": [
-        "25%"
+        "10%"
     ],
     "pressure_advance": [
-        "0.27"
+        "0.25"
     ],
     "slow_down_layer_time": [
-        "3"
+        "2"
     ],
     "slow_down_min_speed": [
         "0.5"
