@@ -1,6 +1,6 @@
 {
     "additional_cooling_fan_speed": [
-        "100"
+        "99"
     ],
     "default_filament_colour": [
         "#000000"
@@ -14,23 +14,23 @@
     "fan_cooling_layer_time": [
         "8"
     ],
-    "filament_flow_ratio": [
-        "1.03"
-    ],
     "filament_max_volumetric_speed": [
         "10"
     ],
-    "filament_retract_when_changing_layer": [
-        "0"
-    ],
     "filament_retraction_length": [
-        "nil"
+        "0.6"
+    ],
+    "filament_retraction_speed": [
+        "20"
     ],
     "filament_settings_id": [
         "Extrudr Flex Hard TPU 58D black @BBL X1C 0.4 x 0.2"
     ],
     "filament_start_gcode": [
         "; filament start gcode\n{if  (bed_temperature[current_extruder] >=35)||(bed_temperature_initial_layer[current_extruder] >35)}M106 P3 S255\n{elsif(bed_temperature[current_extruder] >=25)||(bed_temperature_initial_layer[current_extruder] >30)}M106 P3 S180\n{endif}"
+    ],
+    "filament_z_hop": [
+        "0"
     ],
     "from": "User",
     "hot_plate_temp": [
